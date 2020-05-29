@@ -1,6 +1,4 @@
-# PyTorch-LIME
-PyTorch - L.I.M.E ( Feature attribution for deep learning models )
-
+### Introduction
 This repository walks through an example of LIME(Local Interpretable Model-Agnostic Explanations).
 Orginial LIME paper - https://arxiv.org/abs/1602.04938
 
@@ -14,7 +12,7 @@ Desirable characterstics of an explainable model:
 - Model-Agnostic
 - Global Perspective
 
-
+### Resources
 Utilizes: 
 - https://github.com/marcotcr/lime LIME model
 - Pytorch
